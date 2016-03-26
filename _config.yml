@@ -1,0 +1,28 @@
+name: ammacentremauritius
+favicon: null
+layout_spectrum: 0.06601795880123973
+typography_spectrum: 0.177095799241215
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.01407956425100565
+  lightness: 0.705654276534915
+  saturation: 0.7417536198627204
+  rhythmicContrast: 0.8563913688994944
+purpose: []
