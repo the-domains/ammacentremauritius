@@ -1,20 +1,4 @@
-name: ammacentremauritius
-favicon: null
-layout_spectrum: 0.06601795880123973
 typography_spectrum: 0.177095799241215
-title: ammacentremauritius
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -26,4 +10,23 @@ color:
   lightness: 0
   saturation: 0
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.06601795880123973
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e369875b-215e-433d-bd92-ad6afc65d88e.jpg
+name: ammacentremauritius
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/356c4b42-5283-4385-be76-e6bac9e971d3.png
+title: ammacentremauritius
 purpose: []
