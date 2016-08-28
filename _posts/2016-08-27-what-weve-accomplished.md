@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-27T14:56:50.094Z'
+datePublished: '2016-08-27T18:38:49.126Z'
+sourcePath: _posts/2016-08-27-what-weve-accomplished.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T14:47:06.135Z'
+dateModified: '2016-08-27T18:38:47.849Z'
 title: What We've Accomplished
 publisher: {}
 description: 'Chennai Flood Relief Efforts, December 2015'
 starred: false
-sourcePath: _posts/2016-08-27-what-weve-accomplished.md
-_type: Blurb
+url: what-weve-accomplished/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/965f6c6b-0224-4a1f-9a27-c86f7fe31c26.png)
