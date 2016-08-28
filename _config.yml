@@ -30,6 +30,9 @@ navigation:
   - name: Amritapuri
     url: amritapuri.org
     type: external
+  - name: Amma
+    id: 26f94423-81db-4d96-a754-a8b47c151c76
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/356c4b42-5283-4385-be76-e6bac9e971d3.png
 title: ammacentremauritius
