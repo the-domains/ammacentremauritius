@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-08-27T14:56:53.957Z'
-inFeed: true
+datePublished: '2016-08-27T18:31:57.044Z'
+sourcePath: _posts/2016-08-27-mata-amritanandamayi-also-known-as-amma.md
+inFeed: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T14:39:09.511Z'
+dateModified: '2016-08-27T18:31:55.800Z'
 title: 'Mata Amritanandamayi, also known as Amma'
 publisher: {}
 description: >-
@@ -12,7 +14,7 @@ description: >-
   dedicated to alleviating the pain of the poor, and those suffering physically
   and emotionally.
 starred: false
-sourcePath: _posts/2016-08-27-mata-amritanandamayi-also-known-as-amma.md
+url: mata-amritanandamayi-also-known-as-amma/index.html
 _type: Blurb
 
 ---
