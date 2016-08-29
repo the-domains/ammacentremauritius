@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-27T18:31:57.044Z'
+datePublished: '2016-08-27T18:57:38.440Z'
 sourcePath: _posts/2016-08-27-mata-amritanandamayi-also-known-as-amma.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T18:31:55.800Z'
+dateModified: '2016-08-27T18:57:37.462Z'
 title: 'Mata Amritanandamayi, also known as Amma'
 publisher: {}
 description: >-
