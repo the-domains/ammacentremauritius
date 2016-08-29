@@ -40,6 +40,9 @@ navigation:
   - name: Embracing the world
     url: 'http://www.embracingtheworld.org/'
     type: external
+  - name: About Amma
+    id: f2812ad2-e703-4e08-8a59-9691c39e6696
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/356c4b42-5283-4385-be76-e6bac9e971d3.png
 title: Amma Centre Mauritius
