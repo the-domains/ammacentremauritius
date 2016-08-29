@@ -46,6 +46,9 @@ navigation:
   - name: About Amma (Mata Amritanandamayi)
     id: 4ddd7d95-85d7-4fc0-b519-271af1e7e7d0
     type: content
+  - name: What People Say
+    id: fa2620a9-21f5-4c4c-a2b7-a77edf1db8ad
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/356c4b42-5283-4385-be76-e6bac9e971d3.png
 title: Amma Centre Mauritius
