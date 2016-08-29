@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-28T12:10:14.004Z'
+datePublished: '2016-08-28T12:14:29.607Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T12:09:54.576Z'
+dateModified: '2016-08-28T12:14:28.579Z'
 title: What People Say
 publisher: {}
 description: My father and Amma are kindred spirits.
-starred: false
 sourcePath: _posts/2016-08-28-what-people-say.md
+starred: false
 url: what-people-say/index.html
 _type: Blurb
 
