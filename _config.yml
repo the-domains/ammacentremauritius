@@ -34,6 +34,9 @@ navigation:
   - name: About Amma
     id: f2812ad2-e703-4e08-8a59-9691c39e6696
     type: content
+  - name: About Amma (Mata Amritanandamayi)
+    id: 4ddd7d95-85d7-4fc0-b519-271af1e7e7d0
+    type: content
   - name: amma.org
     url: 'http://amma.org/'
     type: external
@@ -43,9 +46,6 @@ navigation:
   - name: Embracing the world
     url: 'http://www.embracingtheworld.org/'
     type: external
-  - name: About Amma (Mata Amritanandamayi)
-    id: 4ddd7d95-85d7-4fc0-b519-271af1e7e7d0
-    type: content
   - name: What People Say
     id: fa2620a9-21f5-4c4c-a2b7-a77edf1db8ad
     type: content
