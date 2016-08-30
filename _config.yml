@@ -37,6 +37,9 @@ navigation:
   - name: What People Say
     id: fa2620a9-21f5-4c4c-a2b7-a77edf1db8ad
     type: content
+  - name: Awards & Honors
+    id: 7c38cc28-d249-4bfb-b2e7-3d4064051191
+    type: content
   - name: amma.org
     url: 'http://amma.org/'
     type: external
@@ -46,9 +49,6 @@ navigation:
   - name: Embracing the world
     url: 'http://www.embracingtheworld.org/'
     type: external
-  - name: Awards & Honors
-    id: 7c38cc28-d249-4bfb-b2e7-3d4064051191
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/356c4b42-5283-4385-be76-e6bac9e971d3.png
 title: Amma Centre Mauritius
