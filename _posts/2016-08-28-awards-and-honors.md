@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-28T14:25:18.859Z'
+datePublished: '2016-08-28T14:34:50.567Z'
 sourcePath: _posts/2016-08-28-awards-and-honors.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T14:25:08.499Z'
+dateModified: '2016-08-28T14:34:39.511Z'
 title: Awards & Honors
 publisher: {}
 description: 'New York, September 28th, 2015'
