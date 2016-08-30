@@ -31,14 +31,14 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Amritapuri
-    url: amritapuri.org
-    type: external
   - name: About Amma
     id: f2812ad2-e703-4e08-8a59-9691c39e6696
     type: content
   - name: amma.org
     url: 'http://amma.org/'
+    type: external
+  - name: Amritapuri
+    url: amritapuri.org
     type: external
   - name: Embracing the world
     url: 'http://www.embracingtheworld.org/'
