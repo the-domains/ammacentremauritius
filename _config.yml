@@ -31,9 +31,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: About Amma
-    id: f2812ad2-e703-4e08-8a59-9691c39e6696
-    type: content
   - name: About Amma (Mata Amritanandamayi)
     id: 4ddd7d95-85d7-4fc0-b519-271af1e7e7d0
     type: content
