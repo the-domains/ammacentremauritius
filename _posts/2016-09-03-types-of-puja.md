@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-03T14:17:40.263Z'
+datePublished: '2016-09-03T14:18:15.650Z'
 sourcePath: _posts/2016-09-03-types-of-puja.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-03T14:17:39.327Z'
+dateModified: '2016-09-03T14:18:14.655Z'
 title: Types of Puja
 publisher: {}
 description: >-
@@ -111,11 +111,12 @@ To increase leadership skills, for increased courage and vital energy or to exce
 **Kali Puja**
 
 To diminish our ego and all negative tendencies that hinder spiritual progress and material prosperity.   
-Click here for more information and dates.
+[Click here for more information and dates.][0]
 
 **Special Pujas**
 
 There are many special Pujas performed throughout the year.  
-[Click here for more information and dates.][0]
+[Click here for more information and dates.][1]
 
-[0]: http://static.amritapuja.org/special_pujas.html
+[0]: https://testing.thegrid.io/app/site/live?siteID=fdf7ab5e-83f9-4b33-9bc1-5419b9ec87f8
+[1]: http://static.amritapuja.org/special_pujas.html
