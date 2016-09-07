@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-03T14:18:15.650Z'
+datePublished: '2016-09-03T14:18:31.096Z'
 sourcePath: _posts/2016-09-03-types-of-puja.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-03T14:18:14.655Z'
+dateModified: '2016-09-03T14:18:29.833Z'
 title: Types of Puja
 publisher: {}
 description: >-
@@ -14,8 +14,10 @@ description: >-
   pujas are certainly beneficial to those who have faith in them. It would be
   ideal if we pray that all our pujas lead us to the path of love that Amma
   shows us all the time.
+hasPage: true
 starred: false
-_type: Blurb
+url: types-of-puja/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d369d988-0586-4b04-bab9-15b8a6a87d0a.png)
