@@ -50,6 +50,9 @@ navigation:
   - name: Embracing the world
     url: 'http://www.embracingtheworld.org/'
     type: external
+  - name: Types of Puja
+    id: 2c5729bc-6f2e-4902-abfc-8d181a6df03f
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/356c4b42-5283-4385-be76-e6bac9e971d3.png
 title: Amma Centre Mauritius
