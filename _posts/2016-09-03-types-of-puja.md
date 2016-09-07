@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-09-03T14:15:31.931Z'
+datePublished: '2016-09-03T14:17:40.263Z'
+sourcePath: _posts/2016-09-03-types-of-puja.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-03T14:12:52.469Z'
+dateModified: '2016-09-03T14:17:39.327Z'
 title: Types of Puja
 publisher: {}
 description: >-
@@ -14,7 +15,6 @@ description: >-
   ideal if we pray that all our pujas lead us to the path of love that Amma
   shows us all the time.
 starred: false
-sourcePath: _posts/2016-09-03-types-of-puja.md
 _type: Blurb
 
 ---
@@ -30,93 +30,92 @@ _type: Blurb
 
 **HOMAS**
 
-**Ayush Homa **
+**Ayush Homa**
 
 For positive influences in the coming year.
 
-**Karuka Homa **
+**Karuka Homa**
 
 For the health and welfare of children and to develop academic ability. Also relieves stomach problems for elders.
 
-**Tila Homa **
+**Tila Homa**
 
 For departed souls, to be performed 45 days after death or later; for peace of one's ancestors and to receive the blessings of ancestors.
 
-**Ganapathy Homa **
+**Ganapathy Homa**
 
 For positive vibrations in the house, when starting new ventures such as a new job, or generally to remove obstacles.
 
-**Maha Ganapathy Homa **
+**Maha Ganapathy Homa**
 
 If suffering from losses, when starting a new business or investments, when getting married, or to remove obstacles. Also for birthdays.
 
-**Maha Sudharshan Homa **
+**Maha Sudharshan Homa**
 
 For peace and happiness and to get rid of evil forces.
 
-**Maha Mrityunjaya Homa **
+**Maha Mrityunjaya Homa**
 
 For a long and healthy life and to get rid of prolonged sickness. Especially for those on their death bed.
 
-**Navagraha Homa **
+**Navagraha Homa**
 
 Puja for all individual planets.
 
-**Swayamvara Homa **
+**Swayamvara Homa**
 
 For getting married. This is commonly selected along with Ganapathy or Mahaganapathy.
 
 **PUJAS**
 
-**Sun, Moon, Mercury, Mars, Venus, Saturn, Jupiter, Rahu and Ketu **
+**Sun, Moon, Mercury, Mars, Venus, Saturn, Jupiter, Rahu and Ketu**
 
 Puja for individual planets.
 
-**Bhagavati Seva **
+**Bhagavati Seva**
 
 For protection from miseries, fulfillment of wishes and for spiritual benefits. Performed per Kerala tradition, just after sunset to receive the blessings of the Divine Mother.
 
-**Durga **
+**Durga**
 
 For the elimination of all suffering through the grace of the Divine Mother and to get rid of evil tendencies in us.
 
-**Santoshi **
+**Santoshi**
 
 For general peace and well being and happiness. For unity and harmony among family members.
 
-**Vishnu **
+**Vishnu**
 
 For a smooth life, peace and harmony in the family, to improve family relations, for sustaining the family, for departed souls.
 
-**Lakshmi **
+**Lakshmi**
 
 For prosperity, material abundance, and spiritual prosperity. To remove troubles that prevent us from starting a spiritual path or business.
 
-**Saraswati **
+**Saraswati**
 
 For gaining knowledge and mastery in studies, to sharpen the intellect and improve memory.
 
-**Shiva **
+**Shiva**
 
 For improving the general health of body and mind, to remove bad vibrations around a person, for a speedy recovery from illness, or before and after an operation.
 
-**Shiva-Shakti **
+**Shiva-Shakti**
 
 To improve harmony in the marriage and to help integrate material and spiritual progress.
 
-**Subramanya **
+**Subramanya**
 
 To increase leadership skills, for increased courage and vital energy or to excel in martial arts.
 
 **Kali Puja**
 
 To diminish our ego and all negative tendencies that hinder spiritual progress and material prosperity.   
-[Click here for more information and dates.][0]
+Click here for more information and dates.
 
 **Special Pujas**
 
 There are many special Pujas performed throughout the year.  
-[Click here for more information and dates.][1]
+[Click here for more information and dates.][0]
 
-[0]: http://static.amritapuja.org/puja_kali.html
-[1]: http://static.amritapuja.org/special_pujas.html
+[0]: http://static.amritapuja.org/special_pujas.html
